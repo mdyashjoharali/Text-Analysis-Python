@@ -1,4 +1,5 @@
 Text Analysis using Python
+
 Project Description
 This project analyzes text and calculates:
 
